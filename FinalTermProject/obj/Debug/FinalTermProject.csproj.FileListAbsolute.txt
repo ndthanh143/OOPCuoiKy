@@ -1,0 +1,7 @@
+C:\Users\Duy Thanh\OneDrive\Desktop\OOP\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe.config
+C:\Users\Duy Thanh\OneDrive\Desktop\OOP\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe
+C:\Users\Duy Thanh\OneDrive\Desktop\OOP\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.pdb
+C:\Users\Duy Thanh\OneDrive\Desktop\OOP\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.AssemblyReference.cache
+C:\Users\Duy Thanh\OneDrive\Desktop\OOP\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.CoreCompileInputs.cache
+C:\Users\Duy Thanh\OneDrive\Desktop\OOP\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.exe
+C:\Users\Duy Thanh\OneDrive\Desktop\OOP\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.pdb
